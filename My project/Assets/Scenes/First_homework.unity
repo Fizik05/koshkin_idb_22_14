@@ -870,7 +870,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1194077750}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f2afeed0cad6ddc47ad94e5477aaa2eb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a3e11d0a0a77234d93de976257db1b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Cylinder: {fileID: 869934955}
@@ -1029,7 +1029,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1194077755}
-        m_TargetAssemblyTypeName: ForCube, Assembly-CSharp
+        m_TargetAssemblyTypeName: First_homework, Assembly-CSharp
         m_MethodName: onClick
         m_Mode: 1
         m_Arguments:

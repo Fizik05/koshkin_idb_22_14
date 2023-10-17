@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ForCube : MonoBehaviour
+public class Second_homework : MonoBehaviour
 {
     public GameObject Cylinder;
     public bool status_of_cube;
